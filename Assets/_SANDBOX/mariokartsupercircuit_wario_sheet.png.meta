@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: 6cfbec767cee47b4e8234d53300ac442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8640818859442728280
+    second: mariokartsupercircuit_wario_sheet_0
+  - first:
+      213: 5317009790505195637
+    second: mariokartsupercircuit_wario_sheet_1
+  - first:
+      213: -7541709784603777502
+    second: mariokartsupercircuit_wario_sheet_2
+  - first:
+      213: -5679068045034396460
+    second: mariokartsupercircuit_wario_sheet_3
+  - first:
+      213: 491687737728372149
+    second: mariokartsupercircuit_wario_sheet_4
+  - first:
+      213: -1037583309910949138
+    second: mariokartsupercircuit_wario_sheet_5
+  - first:
+      213: -5679525294673853937
+    second: mariokartsupercircuit_wario_sheet_6
+  - first:
+      213: 1178994708883245653
+    second: mariokartsupercircuit_wario_sheet_7
+  - first:
+      213: -4362952783735991831
+    second: mariokartsupercircuit_wario_sheet_8
+  - first:
+      213: 510692819909843937
+    second: mariokartsupercircuit_wario_sheet_9
+  - first:
+      213: -5320264448115989939
+    second: mariokartsupercircuit_wario_sheet_10
+  - first:
+      213: -6248652383783230911
+    second: mariokartsupercircuit_wario_sheet_11
+  - first:
+      213: 9159327086778995891
+    second: mariokartsupercircuit_wario_sheet_12
+  - first:
+      213: -3009767708058850161
+    second: mariokartsupercircuit_wario_sheet_13
+  - first:
+      213: -1076650553647016466
+    second: mariokartsupercircuit_wario_sheet_14
+  - first:
+      213: -286104186493753963
+    second: mariokartsupercircuit_wario_sheet_15
+  - first:
+      213: 4369224808596376920
+    second: mariokartsupercircuit_wario_sheet_16
+  - first:
+      213: -5039779102241341436
+    second: mariokartsupercircuit_wario_sheet_17
+  - first:
+      213: -833925893404103289
+    second: mariokartsupercircuit_wario_sheet_18
+  - first:
+      213: 3614056817988793316
+    second: mariokartsupercircuit_wario_sheet_19
+  - first:
+      213: 6594816452415890736
+    second: mariokartsupercircuit_wario_sheet_20
+  - first:
+      213: -2787055269635415361
+    second: mariokartsupercircuit_wario_sheet_21
+  - first:
+      213: -5899588174631510623
+    second: mariokartsupercircuit_wario_sheet_22
+  - first:
+      213: 7754233208664407676
+    second: mariokartsupercircuit_wario_sheet_23
+  - first:
+      213: -4389371590829698409
+    second: mariokartsupercircuit_wario_sheet_24
+  - first:
+      213: 2740548397306135843
+    second: mariokartsupercircuit_wario_sheet_25
+  - first:
+      213: -8684028243707014678
+    second: mariokartsupercircuit_wario_sheet_26
+  - first:
+      213: -3219015413214607653
+    second: mariokartsupercircuit_wario_sheet_27
+  - first:
+      213: -1046427571168602317
+    second: mariokartsupercircuit_wario_sheet_28
+  - first:
+      213: 1926801035318380760
+    second: mariokartsupercircuit_wario_sheet_29
+  - first:
+      213: -3930767078923921594
+    second: mariokartsupercircuit_wario_sheet_30
+  - first:
+      213: -8106967786707355141
+    second: mariokartsupercircuit_wario_sheet_31
+  - first:
+      213: 1468543288662948283
+    second: mariokartsupercircuit_wario_sheet_32
+  - first:
+      213: -6160181576559112094
+    second: mariokartsupercircuit_wario_sheet_33
+  - first:
+      213: -3427467381168744509
+    second: mariokartsupercircuit_wario_sheet_34
+  - first:
+      213: -8783319189372106226
+    second: mariokartsupercircuit_wario_sheet_35
+  - first:
+      213: 7415287255636899331
+    second: mariokartsupercircuit_wario_sheet_36
+  - first:
+      213: 2483675138835199711
+    second: mariokartsupercircuit_wario_sheet_37
+  - first:
+      213: 4848906733539580947
+    second: mariokartsupercircuit_wario_sheet_38
+  - first:
+      213: 6652398099779997689
+    second: mariokartsupercircuit_wario_sheet_39
+  - first:
+      213: 2838634846090923910
+    second: mariokartsupercircuit_wario_sheet_40
+  - first:
+      213: 6982701846422904747
+    second: mariokartsupercircuit_wario_sheet_41
+  - first:
+      213: 9205336757981893767
+    second: mariokartsupercircuit_wario_sheet_42
+  - first:
+      213: 3939238960656225868
+    second: mariokartsupercircuit_wario_sheet_43
+  - first:
+      213: 2515233436398288603
+    second: mariokartsupercircuit_wario_sheet_44
+  - first:
+      213: -7583567497483928999
+    second: mariokartsupercircuit_wario_sheet_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d649db8fa5ae770800000000000000
+      internalID: 8640818859442728280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781656db30d9c940800000000000000
+      internalID: 5317009790505195637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226aa9998e6765790800000000000000
+      internalID: -7541709784603777502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 202
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e378b3b5ef21b0800000000000000
+      internalID: -5679068045034396460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 202
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd07b37463d2d600800000000000000
+      internalID: 491687737728372149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 202
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee242eb1a73c991f0800000000000000
+      internalID: -1037583309910949138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 151
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028e1ef5d54e21b0800000000000000
+      internalID: -5679525294673853937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 150
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0d0fe071ac5010800000000000000
+      internalID: 1178994708883245653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 151
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15d912f8da373c0800000000000000
+      internalID: -4362952783735991831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9118f968561700800000000000000
+      internalID: 510692819909843937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 152
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4228e22caf9a26b0800000000000000
+      internalID: -5320264448115989939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e3b383c35849a0800000000000000
+      internalID: -6248652383783230911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 151
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4531d05777c1f70800000000000000
+      internalID: 9159327086778995891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 151
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce5b847382b36d0800000000000000
+      internalID: -3009767708058850161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee554aa9608fe01f0800000000000000
+      internalID: -1076650553647016466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a94b12cd870cf0800000000000000
+      internalID: -286104186493753963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d063470da92ac30800000000000000
+      internalID: 4369224808596376920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c770cb9b1f0ab0800000000000000
+      internalID: -5039779102241341436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 101
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de5aa71dc4d64f0800000000000000
+      internalID: -833925893404103289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3fc422785b72230800000000000000
+      internalID: 3614056817988793316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 102
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a6256f9e758b50800000000000000
+      internalID: 6594816452415890736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2200caff36259d0800000000000000
+      internalID: -2787055269635415361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 101
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad5ef100d3702ea0800000000000000
+      internalID: -5899588174631510623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 101
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ebaf305029c9b60800000000000000
+      internalID: 7754233208664407676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79297654bc1d513c0800000000000000
+      internalID: -4389371590829698409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c23f4f32680620800000000000000
+      internalID: 2740548397306135843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1526282522c7780800000000000000
+      internalID: -8684028243707014678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 52
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd606d86982c353d0800000000000000
+      internalID: -3219015413214607653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33712511ba75a71f0800000000000000
+      internalID: -1046427571168602317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 51
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c10f355f5dba10800000000000000
+      internalID: 1926801035318380760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64790f5fa2c1379c0800000000000000
+      internalID: -3930767078923921594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 51
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f5c320c34e7f80800000000000000
+      internalID: -8106967786707355141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9f9022750516410800000000000000
+      internalID: 1468543288662948283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d9418e73a28aa0800000000000000
+      internalID: -6160181576559112094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d23a83903f60d0800000000000000
+      internalID: -3427467381168744509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8a98bbb16b1680800000000000000
+      internalID: -8783319189372106226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f7bb987468e660800000000000000
+      internalID: 7415287255636899331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bdb33169c77220800000000000000
+      internalID: 2483675138835199711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c50a9cbf6ca4340800000000000000
+      internalID: 4848906733539580947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariokartsupercircuit_wario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffced963d0125c50800000000000000
+      internalID: 6652398099779997689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 992600b95fb2ae34faedb515f0cb1a37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
