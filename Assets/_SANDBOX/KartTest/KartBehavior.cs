@@ -17,7 +17,9 @@ public class KartBehavior : MonoBehaviour
 {
     Rigidbody rb;
     float TurnSpeed = 180f;
-    // ? bool IsTurning = false;
+    bool IsTurning = false;
+
+    float VelMagnitude;
 
     [Header("Vertical Movement")]
     public float PlayerSpeed = 3f;
@@ -34,6 +36,7 @@ public class KartBehavior : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        VelMagnitude = rb.velocity.magnitude;
         Movement();
     }
 
@@ -44,7 +47,7 @@ public class KartBehavior : MonoBehaviour
     {
         float HorizontalInput = Input.GetAxis("Horizontal");
         
-        //?IsTurning = false;
+        IsTurning = false;
         //?float VerticalInput = Input.GetKey("Vertical");
 
         //If input left/right, call Turn()
@@ -59,20 +62,20 @@ public class KartBehavior : MonoBehaviour
 
         if (HorizontalInput != 0)
         {
-            //?IsTurning = true;
+            IsTurning = true;
             Turn(HorizontalInput);
         }
 
-        //?Prevent character wobbling when going forward
-        //if(IsTurning == false)
-        //{
-        //    rb.constraints = RigidbodyConstraints.FreezeRotation;
-        //}
-        //else
-        //{
-        //    rb.constraints = RigidbodyConstraints.None;
-        //    rb.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationZ;
-        //}
+        //Prevent character wobbling when going forward
+        if (IsTurning == false)
+        {
+            rb.constraints = RigidbodyConstraints.FreezeRotation;
+        }
+        else
+        {
+            rb.constraints = RigidbodyConstraints.None;
+            rb.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationZ;
+        }
 
 
         //else if (Input.GetAxis("space") < 0)
@@ -91,8 +94,18 @@ public class KartBehavior : MonoBehaviour
     {
         //SOURCE
         //https://www.youtube.com/watch?v=cqATTzJmFDY
+        float ForwardMove = Input.GetAxis("Vertical");
+        float VelThreshold = .5f;
+
+        //? should magnitude be used instead??
+        //if (ForwardMove < .3 && (rb.velocity.z > VelThreshold || rb.velocity.x > VelThreshold || rb.velocity.y > VelThreshold))
+        //{
+        //    ForwardMove = .3f;
+        //}
+
+
         transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles
-                                              + new Vector3(0f, Val * (TurnSpeed/Handling) * Time.deltaTime * Input.GetAxis("Vertical"), 0f));
+                                              + new Vector3(0f, Val * (TurnSpeed/Handling) * Time.deltaTime * ForwardMove, 0f));
         
         
         //Debug.Log(Val);
@@ -144,25 +157,25 @@ public class KartBehavior : MonoBehaviour
 
     #region Collision Behavior
 
-    //private void OnCollisionEnter(Collision collision)
-    //{
-    //    GameObject Col = collision.gameObject;
+    private void OnCollisionEnter(Collision collision)
+    {
+        GameObject Col = collision.gameObject;
 
-    //    if (Col.tag == "Tirewall")
-    //    {
-    //        Debug.Log("Impact!!!");
-    //        rb.velocity = new Vector3(0f,0f,0f);
+        if (Col.tag == "Tirewall")
+        {
+            Debug.Log("Impact!!!");
+            rb.velocity = new Vector3(0f, 0f, 0f);
 
-    //        var ReflectPosition = transform.position;
+            var ReflectPosition = transform.position;
 
-    //        Debug.Log("At impact: " + ReflectPosition);
+            Debug.Log("At impact: " + ReflectPosition);
 
-    //        ReflectPosition = Vector3.Reflect(ReflectPosition, Vector3.right);
-    //        Debug.Log("Reflected: " + ReflectPosition + "\n");
+            ReflectPosition = Vector3.Reflect(ReflectPosition, Vector3.right);
+            Debug.Log("Reflected: " + ReflectPosition + "\n");
 
-    //        rb.AddForce(ReflectPosition);
-    //    }
-    //}
+            rb.AddForce(-ReflectPosition*VelMagnitude*.01f, ForceMode.Impulse);
+        }
+    }
 
     #endregion
 }

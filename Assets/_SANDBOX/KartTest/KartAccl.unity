@@ -162,7 +162,6 @@ GameObject:
   m_Component:
   - component: {fileID: 152971539}
   - component: {fileID: 152971538}
-  - component: {fileID: 152971537}
   - component: {fileID: 152971540}
   m_Layer: 0
   m_Name: tirewall
@@ -170,19 +169,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &152971537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152971536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2dcec5e690421b8468b7d555d5ec9fab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_IsActive: 1
 --- !u!212 &152971538
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -637,7 +624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerSpeed: 3.5
-  Handling: 1
+  Handling: 2
 --- !u!65 &680309925
 BoxCollider:
   m_ObjectHideFlags: 0
